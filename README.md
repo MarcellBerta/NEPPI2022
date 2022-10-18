@@ -1,6 +1,6 @@
-# NEPPI2021 GitHub
+# NEPPI2022 GitHub
 
-## Welcome to the 2021 NEPPI course Github
+## Welcome to the 2022 NEPPI course Github
 Welcome to the GitHub site for the NEPPI course! Here you can find all the necessary files to start programming your ESP32.
 ## Section 1: What is in the kit?
 Hexagon components: A base, a middle part and a top, 6 pillars, 2-4 walls and accessories for those walls.\
